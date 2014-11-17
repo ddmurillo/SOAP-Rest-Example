@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bc08a55f-33b1-46e3-bca8-e3485e931d44" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:61327/Math.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Math.xsd" MetadataType="Schema" ID="fd85858a-b989-4b73-9cf0-c51bd0172bb7" SourceId="1" SourceUrl="http://localhost:61327/Math.svc?xsd=xsd1" />
+    <MetadataFile FileName="Math.wsdl" MetadataType="Wsdl" ID="9e0eaa28-6045-40d7-9367-a282e781701b" SourceId="1" SourceUrl="http://localhost:61327/Math.svc?wsdl" />
+    <MetadataFile FileName="Math.disco" MetadataType="Disco" ID="12d1aec6-86a5-4a45-a27d-98f2eedc9789" SourceId="1" SourceUrl="http://localhost:61327/Math.svc?disco" />
+    <MetadataFile FileName="Math1.xsd" MetadataType="Schema" ID="93a47ee0-deba-4f3d-b246-7de47ea5974f" SourceId="1" SourceUrl="http://localhost:61327/Math.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

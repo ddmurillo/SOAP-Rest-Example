@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapMath", "SoapMath\SoapMath.csproj", "{EDEDACB4-3DE8-470F-854F-B87AAB9668A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapRestWeb", "SoapRestWeb\SoapRestWeb.csproj", "{7B9C1971-E2A0-484F-8617-BE420755BCD9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EDEDACB4-3DE8-470F-854F-B87AAB9668A4} = {EDEDACB4-3DE8-470F-854F-B87AAB9668A4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestMathSvc", "RestMathSvc\RestMathSvc.csproj", "{7A956169-7A42-4419-A367-847006B79518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestMath", "RestMath\RestMath.csproj", "{EED74BDB-F092-4930-AE69-99A760977A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDEDACB4-3DE8-470F-854F-B87AAB9668A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEDACB4-3DE8-470F-854F-B87AAB9668A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEDACB4-3DE8-470F-854F-B87AAB9668A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEDACB4-3DE8-470F-854F-B87AAB9668A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9C1971-E2A0-484F-8617-BE420755BCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9C1971-E2A0-484F-8617-BE420755BCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9C1971-E2A0-484F-8617-BE420755BCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9C1971-E2A0-484F-8617-BE420755BCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A956169-7A42-4419-A367-847006B79518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A956169-7A42-4419-A367-847006B79518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A956169-7A42-4419-A367-847006B79518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A956169-7A42-4419-A367-847006B79518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EED74BDB-F092-4930-AE69-99A760977A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED74BDB-F092-4930-AE69-99A760977A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED74BDB-F092-4930-AE69-99A760977A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED74BDB-F092-4930-AE69-99A760977A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

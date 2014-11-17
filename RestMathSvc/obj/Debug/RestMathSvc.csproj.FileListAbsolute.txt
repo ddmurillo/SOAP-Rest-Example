@@ -1,0 +1,5 @@
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMathSvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMathSvc\bin\RestMathSvc.dll
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMathSvc\bin\RestMathSvc.pdb
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMathSvc\obj\Debug\RestMathSvc.dll
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMathSvc\obj\Debug\RestMathSvc.pdb

@@ -1,0 +1,5 @@
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapRestWeb\bin\SoapRestWeb.dll
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapRestWeb\bin\SoapRestWeb.pdb
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapRestWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapRestWeb\obj\Debug\SoapRestWeb.dll
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapRestWeb\obj\Debug\SoapRestWeb.pdb

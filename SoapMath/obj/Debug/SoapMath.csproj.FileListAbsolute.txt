@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\bin\SoapMath.dll
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\bin\SoapMath.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\obj\Debug\SoapMath.dll
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\obj\Debug\SoapMath.pdb
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\bin\SoapMath.dll
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\bin\SoapMath.pdb
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\obj\Debug\SoapMath.dll
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\SoapMath\obj\Debug\SoapMath.pdb

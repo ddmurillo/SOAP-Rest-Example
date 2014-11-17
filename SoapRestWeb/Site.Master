@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SoapRestWeb.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>SOAP & REST Calculator</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="Scripts/jquery-2.1.1-min.js"></script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="body">
+    <header class="header">
+        <h1 class="h1"><span class="bold">Calculadora SOAP & REST</span></h1>
+    </header>
+    <article class="article">
+    <form runat="server">
+    <div class="calculator demo">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+    <div class="clear">
+    </div>
+    </form>
+    
+    </article>
+    <footer class="footer">
+        <p class="p">Informatica 1 - ddmurillo</p>
+    </footer>
+</body>
+</html>

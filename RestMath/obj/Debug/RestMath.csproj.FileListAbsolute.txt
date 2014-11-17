@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\soaprest\RestMath\bin\RestMath.dll
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\soaprest\RestMath\bin\RestMath.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\soaprest\RestMath\obj\Debug\RestMath.dll
+C:\Users\TOSHIBA\Documents\Visual Studio 2010\Projects\soaprest\RestMath\obj\Debug\RestMath.pdb
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMath\bin\RestMath.dll
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMath\bin\RestMath.pdb
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMath\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMath\obj\Debug\RestMath.dll
+C:\Users\ddmurillo\Documents\Visual Studio 2010\Projects\soaprest\RestMath\obj\Debug\RestMath.pdb
